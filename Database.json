@@ -1,9 +1,9 @@
 {
-  "allowedIps": ["172.18.0.4", "172.18.0.3"],
+  "allowedIps": ["172.18.0.30", "172.18.0.3"],
   "users": [
     {
-      "username": "fall",
-      "password": "fall123"
+      "username": "admin",
+      "password": "admin"
     },
     {
       "username": "ella",
